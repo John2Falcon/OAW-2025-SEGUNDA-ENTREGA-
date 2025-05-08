@@ -14517,6 +14517,6 @@ const App = () => {
   ] });
 };
 clientExports.createRoot(document.getElementById("root")).render(
-  /* @__PURE__ */ jsxRuntimeExports.jsx(reactExports.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { basename: "/dist_original/", children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) }) })
+  /* @__PURE__ */ jsxRuntimeExports.jsx(reactExports.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { basename: "/version_original/", children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) }) })
 );
-//# sourceMappingURL=index-B9o9SM4Q.js.map
+//# sourceMappingURL=index-BOCUXkNJ.js.map
